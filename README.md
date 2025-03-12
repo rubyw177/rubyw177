@@ -29,7 +29,6 @@ I'm experienced in data analysis, machine learning, and embedded systems. I hold
 
 ### Digital Design & FPGA:
 ![Verilog](https://img.shields.io/badge/Verilog-0C0C0C?style=for-the-badge&logo=verilog&logoColor=white)
-![VHDL](https://img.shields.io/badge/VHDL-1C1C1C?style=for-the-badge&logo=vhdl&logoColor=white)
 
 ### CAD Tools:
 ![KiCAD](https://img.shields.io/badge/KiCAD-1A1918?style=for-the-badge&logo=kicad&logoColor=white)
